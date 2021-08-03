@@ -1,5 +1,12 @@
-lc - <a href="/p">posts</a>
+
+┏┓╋╋┏┓╋┏┓
+┃┗┳┳┫┗┓┃┗┳┓┏━┳━┓
+┃┏╋┃┫┏┫┃╋┃┗┫╋┃╋┃
+┗━┻┻┻━┛┗━┻━┻━╋┓┃
+╋╋╋╋╋╋╋╋╋╋╋╋╋┗━┛
+
+
+Index - <a href="/p">posts</a> - <a href="/txt">txt</a>
 
 
 
-Everything will come to an end.
