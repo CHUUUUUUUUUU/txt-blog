@@ -8,4 +8,4 @@ Nam nec dignissim nisl, id sodales metus. Interdum et malesuada fames ac ante ip
 
 Quisque sit amet porta ante, quis pharetra odio. Vivamus ac faucibus magna. Maecenas ante mi, blandit vitae suscipit sed, condimentum sed elit. Praesent rhoncus vel neque ut ultricies. Integer quis ipsum tellus. In mattis diam eget lectus sollicitudin suscipit. Morbi quam erat, venenatis nec est at, eleifend vulputate arcu. Vivamus maximus tincidunt neque a tempor. Phasellus ornare hendrerit semper.
 
-Generated 5 paragraphs, 362 words, 2492 bytes of <a href="/lipsum.com">Lorem Ipsum</a>
+Generated 5 paragraphs, 362 words, 2492 bytes of <a href="https://lipsum.com">Lorem Ipsum</a>
